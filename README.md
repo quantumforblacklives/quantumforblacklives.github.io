@@ -1,18 +1,20 @@
-# Black Lives Matter.
+
 ![GitHub](https://img.shields.io/github/license/quantumforblacklives/quantumforblacklives.github.io)
 ![GitHub last commit](https://img.shields.io/github/last-commit/quantumforblacklives/quantumforblacklives.github.io)
 ![Join Slack](https://img.shields.io/badge/quantumforblacklives%20slack-join-blue)
 
 > For more resources and to continue the discussion, [join our slack](https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww).
 
-## Our letter
+# Our Pledge
 
-### Resources
+## Resources
 
-## Submit an action plan
+## Add your name to this pledge
+
+### Submit an action plan
 
 ----
-#### How to contribue to this website
+#### How to contribute to this website
 
 
 You can use the [editor on GitHub](https://github.com/quantumforblacklives/quantumforblacklives.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -42,10 +44,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quantumforblacklives/quantumforblacklives.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
