@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Black Lives Matter.
+
+> For more resources, join our slack:
+>![https://img.shields.io/badge/slack-join-brightgreen](https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww)
+
+## Our letter
+
+### Resources
+
+## Submit an action plan
+
+----
+#### How to contribue to this website
+
 
 You can use the [editor on GitHub](https://github.com/quantumforblacklives/quantumforblacklives.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
