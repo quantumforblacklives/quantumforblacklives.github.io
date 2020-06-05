@@ -1,0 +1,99 @@
+---
+layout: home
+---
+<img src="https://img.shields.io/github/license/quantumforblacklives/quantumforblacklives.github.io" title="GitHub"/>
+<img src="https://img.shields.io/github/last-commit/quantumforblacklives/quantumforblacklives.github.io" title="GitHub last commit"/>
+<a href="https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww"><img src="https://img.shields.io/badge/slack-join-blue" title="Join Slack" /></a>
+
+<h1>Our Pledge</h1> 
+
+<h2>Resources</h2>
+
+<h2> Add your name to this pledge</h2>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+ <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeVSkwayI_uKgqEPWvqkB7nJalHAUgb9Xoks0JCCFHRAtEhuw/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+  Name:<br>
+  <input type="text" name="entry.1861506189" id="entry.1861506189"><br>
+  Affiliation:<br>
+  <input type="text" name="entry.1527404423" id="entry.1527404423">
+  <input type="submit" value="Submit">
+</form>
+</iframe>
+
+<h2> Submit an action plan </h2>
+<blockquote><em>For more resources and to continue the discussion, <a href="https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww">join our slack</a>.</em></blockquote>
+
+<img id="top" src="/images/top.png" alt="">
+	<div id="form_container">
+		<form id="form_113164" class="appnitro"  method="post" action="">
+      <div class="form_description">
+        <p>If you would like to sign, enter your information here and it will be added to the list shortly.</p>
+      </div>						
+			<ul >
+				<li id="li_1" style="list-style-type: none;">
+		      <label class="description" for="element_1">Name </label>
+		      <div>
+			      <input id="element_1" name="element_1" class="element text medium" type="text" maxlength="255" value=""/> 
+		      </div> 
+        </li>		
+        <li id="li_2" style="list-style-type: none;">
+		      <label class="description" for="element_2">Affiliation </label>
+		      <div>
+			      <input id="element_2" name="element_2" class="element text medium" type="text" maxlength="255" value=""/> 
+		      </div> 
+		    </li>
+				<li class="buttons" style="list-style-type: none;">
+			    <input type="hidden" name="form_id" value="113164" />
+			    <input id="saveForm" class="button_text" type="submit" name="submit" value="Submit" />
+		    </li>
+			</ul>
+		</form>	
+	</div>
+	<img id="bottom" src="/images/bottom.png" alt="">
+
+<h3>Here are some plans submitted by others:</h3>
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h1>{{ post.title }}</h1>
+
+        <div>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        </div>
+      </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+
+  <!-- pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="webjeda">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
