@@ -3,3 +3,4 @@
 - Katrina Miller, University of Chicago 
 - Kay Kirkpatrick , University of Illinois at Urbana-Champaign 
 - Allison Sachs, Institute for Quantum Computing
+- Sam Mugel, Multiverse Computing
