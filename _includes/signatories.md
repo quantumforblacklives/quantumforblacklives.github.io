@@ -1,1 +1,2 @@
-Kay Kirkpatrick , University of Illinois at Urbana-Champaign 
+- Kay Kirkpatrick , University of Illinois at Urbana-Champaign 
+- Allison Sachs, Institute for Quantum Computing
