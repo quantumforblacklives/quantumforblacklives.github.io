@@ -7,3 +7,4 @@
 - Brendan Reid, Riverlane 
 - Nicholas Chancellor, Durham University
 - Felix Tripier, IonQ
+- Olivia lanes , University of Pittsburgh 
