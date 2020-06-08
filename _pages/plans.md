@@ -29,7 +29,7 @@ Use these as inspiration to write your own plan and hold each other accountable.
 
 It’s one thing to sign a letter stating your support of a position. It’s another thing to commit to joining campaigns and writing codes of conduct. We can support each other in this. If you think it will be helpful to you in your work, send us a summary of your plan for action, in whatever capacity you are working. We’ll organize a slack channel where we can talk about how things are going and send out email reminders of your commitments in a few months.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRL-cd4dja4p_D9_mhDoJM54LGN9kOPLClmpOzi2DaJ2mAXQ/viewform?embedded=true" width="640" height="1575" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRL-cd4dja4p_D9_mhDoJM54LGN9kOPLClmpOzi2DaJ2mAXQ/viewform?embedded=true" width="640" height="1700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   
 ----  
 ### Here are some plans submitted by others:
