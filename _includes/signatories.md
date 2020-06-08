@@ -9,3 +9,4 @@
 - Felix Tripier, IonQ
 - Olivia lanes , University of Pittsburgh 
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
+- Susanna Todaro, Massachusetts Institute for Technology
