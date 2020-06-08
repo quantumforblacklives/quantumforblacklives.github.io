@@ -1,2 +1,5 @@
-Allison Sachs, Institute for Quantum Computing
-Suchitra Sebastian, University of Cambridge
+- Suchitra Sebastian, University of Cambridge
+- Nicholas Farina , EeroQ Quantum Hardware 
+- Katrina Miller, University of Chicago 
+- Kay Kirkpatrick , University of Illinois at Urbana-Champaign 
+- Allison Sachs, Institute for Quantum Computing
