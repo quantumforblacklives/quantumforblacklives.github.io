@@ -8,5 +8,6 @@
 - Nicholas Chancellor, Durham University
 - Felix Tripier, IonQ
 - Olivia lanes , University of Pittsburgh 
+- Cameron Calcluth, Chalmers University of Technology
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
 - Susanna Todaro, Massachusetts Institute for Technology
