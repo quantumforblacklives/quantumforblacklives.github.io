@@ -5,6 +5,7 @@ permalink: /plans/
 ---
 Here is the full list of action plans submitted by folks to this site.
 Use these as inspiration to write your own plan and hold each other accountable.
+> _For more resources and to continue the discussion, <a href="https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww">join our slack</a>_
 
 <div id="archives">
 {% for category in site.categories %}
@@ -30,8 +31,6 @@ It’s one thing to sign a letter stating your support of a position. It’s ano
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRL-cd4dja4p_D9_mhDoJM54LGN9kOPLClmpOzi2DaJ2mAXQ/viewform?embedded=true" width="640" height="1575" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   
-> _For more resources and to continue the discussion, <a href="https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww">join our slack</a>_
-
 ----  
 ### Here are some plans submitted by others:
 <div class="posts">
