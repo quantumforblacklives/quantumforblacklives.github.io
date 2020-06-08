@@ -24,11 +24,6 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
-    <meta property="twitter:image" content="{{ site.url }}{{ page.image }}"/>
-    {% else %}
-    <meta property="og:image" content="{{ site.url }}{{ site.avatar }}"/>
-    <meta property="twitter:image" content="{{ site.url }}{{ site.avatar }}"/>
-    {% endif %}
+    <meta name="twitter:image" content="{{ site.url }}image/logo-padded.png">
+    <meta property="og:image" content="{{ site.url }}image/logo-padded.png"/>
     <meta property="og:site_name" content="Quantum For Black Lives"/>
