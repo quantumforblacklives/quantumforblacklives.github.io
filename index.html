@@ -3,70 +3,101 @@ layout: home
 ---
 
 <h1>Quantum Scientists Action Statement for Black Lives</h1> 
+  <p>In the past two weeks, people across America & around the world have risen up in resistance to anti-Black racism and police violence. They have mourned the inexcusable loss of George Floyd, Breonna Taylor, Tony McDade, D’Andre Campbell and countless more who have been murdered by police. Anti-Blackness has been a core feature of our society for centuries. Everywhere there is quantum research, there is anti-Blackness. We support protests resisting racism and police violence. We stand in support of Black people in America and around the world. As quantum scientists and engineers, we want to say that Black lives matter.</p>
+  <p>Anti-Black racism and the struggle against it is relevant not only to us as people, but also in several ways to our work as quantum researchers. First, there is an enormous amount of anti-Black racism within the quantum community, where Black scientists are harassed, traumatized, and pushed out of their chosen line of work. Second, much of our funding comes directly from war organizations like the U.S. Army — the actors of American militarism, who seek to end and extract value from Black life in and outside of America. Much of our research in turn supports military efforts. Finally, the Trump administration, which poses even more of a threat to Black existence than previous governments, has decided that quantum computing is worthy of <a href="https://www.aip.org/fyi/2019/national-quantum-initiative-signed-law">enormous amounts of funding</a>. Our professional organizations have celebrated this, aligning our research community with a fascistic government.</p>
+  <p>We cannot only claim support of protests. We must act against anti-Black racism and the violent cultural & state structures that enact it in our cities, research groups, and workplaces. We must disarm, defund, and abolish the police. We must fund community-based organizations to support people’s needs and respond to crises, including broad non-coercive mental healthcare<sup><a href="#section1">[1]</a></sup>. We must dismantle the militarism of our research, beginning with rejecting relationships with the Trump government and funding from war organizations. We must act now to change the culture of our institutions to make space for and materially support Black scientists at all stages of research. We must value the humanity of our Black colleagues over the power and privilege we gain by being complicit in anti-Blackness.</p>
+  To begin, those of us in academia are joining <a href="https://www.shutdownstem.com/">#ShutDownSTEM</a> & <a href="https://www.particlesforjustice.org/strike-details">#Strike4BlackLives</a>, a one day strike on Wednesday June 10. We will not meet, teach, or research, except to take action against anti-Blackness.
+  <p>We, the undersigned, pledge to act against anti-Black racism in ourselves, our communities, and our places of work, well after this moment passes. We commit to developing a long-term action plan which addresses as many of these actions as we can.</p>
+  <p>Join us in sending a clear message that the quantum research community will no longer stand for racist violence and that Black lives do matter.</p>
 
-<hr>
-<h2>Signatories</h2>
+  <p id="section1"><sup>[1]</sup> A <a href="https://www.treatmentadvocacycenter.org/overlooked-in-the-undercounted">distressing number</a> of people murdered by the police were having a psychiatric crisis; often, a loved one called the police for help.</p>
 
+  <h2>Proposed Actions</h2>
+  <ul>
+    <li>Work to disarm, defund, and build alternatives to the police</li>
+      <ul>
+        <li>Campaign to remove police from campuses</li>
+        <li>Campaign to disarm, defund, & dismantle police in our cities</li>
+        <li>Develop alternatives to the police on our campuses and in our cities, including advocating for robust, non-coercive mental health supports with specific support for Black people</li>
+      </ul>
+    <li>Reject militarism & fascism</li>
+      <ul>
+        <li>Refuse military funding</li>
+        <li>Refuse work in war industries and on surveillance technologies</li>
+        <li>Educate our students about this work and the imperative to refuse it</li>
+        <li>Assess our ethical decision-making practices (or lack thereof) and implement research ethics codes with genuine limitations</li>
+        <li>Engage in self-critical discussions about how any of our projects might be used for war industries & surveillance technology; refuse this work as much as possible</li>
+        <li>Resign from federal government roles (e.g.: PCAST) that can be used to construe or even explicitly provide support for facism.</li>
+      </ul>
+    <li>Support Black academics</li>
+      <ul>
+        <li>Hire Black faculty</li>
+        <li>Hire Black graduate students with full pay</li>
+        <li>Invite Black academics for research talks and paid sabbaticals</li>
+        <li>Provide accommodations to account for institutional racism</li>
+        <li>Compensate Black academics for their labor in mentoring Black students and doing anti-racist work in the academy</li>
+      </ul>
+    <li>Identify & respond to existing problems in ourselves and our communities</li>
+      <ul>
+        <li>Undertake or read assessments of climate, funding, etc.</li>
+        <li>Name harassers and campaign for restorative justice or their removal</li>
+        <li>Establish codes of conduct with real mechanisms for responding to harassment</li>
+      </ul>    
+    <li>Educate ourselves and our communities</li>
+      <ul>
+        <li>Host anti-racist trainings in our workplaces and departments</li>
+        <li>Form learning groups within departments to deepen understanding of structural racism in science</li>
+        <li>Read and listen to the vast amount of Black voices and research</li>
+        <li>Teach about racism & equity in introductory physics classes</li>
+      </ul>
+    <li>Change our language</li>
+    <ul>
+      <li>Refuse to use or publish the phrase “quantum supremacy” or “ancilla”</li>
+    </ul>
+  </ul>
+  </h2>
+
+  
+  
+  <hr>
+  <h2>Authors</h2>
+  <ul>
+    <li>Pratiti Deb, University of Chicago</li>
+    <li>Carolyn Earnest, FemPhys + Institute for Quantum Computing, University of Waterloo</li>
+    <li>Emma McKay, York University</li>
+  </ul>
+  <h2>Signatories</h2>
+{% capture my_include %}{% include signatories.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 <hr>
 <h2> Add your name to this pledge</h2>
   <p>Join us in sending a clear message that the quantum research community will no longer stand for racist violence and that Black lives do matter.</p>
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfXrA5xHWZS3qZfZinABQOlx2M1f3g1yBl9cph6_OteVcOykw/viewform?embedded=true" width="640" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 	
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
 
-  <hr>
-<h2> Submit an action plan </h2>
-
-<p>It’s one thing to sign a letter stating your support of a position. It’s another thing to commit to joining campaigns and writing codes of conduct. We can support each other in this. If you think it will be helpful to you in your work, send us a summary of your plan for action, in whatever capacity you are working. We’ll organize a slack channel where we can talk about how things are going and send out email reminders of your commitments in a few months.</p>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdRL-cd4dja4p_D9_mhDoJM54LGN9kOPLClmpOzi2DaJ2mAXQ/viewform?embedded=true" width="640" height="1575" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-  
-  <blockquote><em>For more resources and to continue the discussion, <a href="https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww">join our slack</a>.</em></blockquote>
-
-<hr>  
-<h3>Here are some plans submitted by others:</h3>
-<div class="posts">
-  {% for post in paginator.posts %}
-    <article class="post">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
-
-        <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
-        </div>
-      </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
   {% endfor %}
 
-  <!-- pagination -->
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
-    {% else %}
-      <span>&laquo; Prev</span>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="webjeda">{{ page }}</span>
-      {% elsif page == 1 %}
-        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
-    {% else %}
-      <span>Next &raquo;</span>
-    {% endif %}
-  </div>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
   {% endif %}
 </div>
+{% endif %}
