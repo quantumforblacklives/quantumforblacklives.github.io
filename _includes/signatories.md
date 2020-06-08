@@ -9,3 +9,8 @@
 - Felix Tripier, IonQ
 - Olivia lanes , University of Pittsburgh 
 - John Schanck, University of Waterloo
+- Alvaro Alhambra, Perimeter institute
+- Deep Prasad, ReactiveQ
+- Cameron Calcluth, Chalmers University of Technology
+- Charles Xu, Institute for Quantum Information and Matter, Caltech
+- Susanna Todaro, Massachusetts Institute for Technology
