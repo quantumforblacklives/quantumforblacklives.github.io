@@ -59,7 +59,7 @@ jobs:
             $Branch = "signature/${{ github.run_id }}";
             $What = "signature";
             
-            Add-Content -Path _includes/signatories.md -Value "$Name$ExtendedAffil";
+            Add-Content -Path _includes/signatories.md -Value "- $Name$ExtendedAffil";
         }
         
         Write-Host "::set-output name=branch::$Branch";
