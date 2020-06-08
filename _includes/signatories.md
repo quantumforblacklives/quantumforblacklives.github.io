@@ -8,6 +8,7 @@
 - Nicholas Chancellor, Durham University
 - Felix Tripier, IonQ
 - Olivia lanes , University of Pittsburgh 
+- Alvaro Alhambra, Perimeter institute
 - Deep Prasad, ReactiveQ
 - Cameron Calcluth, Chalmers University of Technology
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
