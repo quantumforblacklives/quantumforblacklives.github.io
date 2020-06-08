@@ -1,11 +1,21 @@
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@qforblacklife">
-    <meta name="twitter:url" content="https://www.quantumforblacklives.org/">
-    <meta name="twitter:creator" content="@qforblacklife">
+<meta property="og:image" content="{{ site.url }}image/logo-padded.png"/>
+<meta property="og:image:url" content="{{ site.url }}image/logo-padded.png"/>
+<meta property="og:image:secure_url" content="{{ site.url }}image/logo-padded.png"/>
+<meta property="og:image:type" content="image/png" />
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="Quantum For Black Lives"/>
+<meta name="author" content="{{ site.name }}" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@qforblacklife">
+<meta name="twitter:url" content="https://www.quantumforblacklives.org/">
+<meta name="twitter:creator" content="@qforblacklife">
+<meta name="twitter:image" content="{{ site.url }}image/logo-padded.png">
+<meta name="twitter:image:src" content="{{ site.url }}image/logo-padded.png">
 
     {% if page.excerpt %}
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
@@ -17,13 +27,10 @@
     <meta property="og:description" content="{{ site.description }}" />
     <meta property="twitter:description" content="{{ site.description }}" />
     {% endif %}
-    <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    <meta name="twitter:image" content="{{ site.url }}image/logo-padded.png">
-    <meta property="og:image" content="{{ site.url }}image/logo-padded.png"/>
-    <meta property="og:site_name" content="Quantum For Black Lives"/>
+
