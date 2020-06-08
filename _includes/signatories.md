@@ -9,3 +9,4 @@
 - Felix Tripier, IonQ
 - Olivia lanes , University of Pittsburgh 
 - Susanna Todaro, Massachusetts Institute for Technology
+- Ariel Bendersky, Universidad de Buenos Aires
