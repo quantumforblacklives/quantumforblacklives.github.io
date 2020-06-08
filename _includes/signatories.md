@@ -5,3 +5,5 @@
 - Allison Sachs, Institute for Quantum Computing
 - Sam Mugel, Multiverse Computing
 - Brendan Reid, Riverlane 
+- Nicholas Chancellor, Durham University
+- Felix Tripier, IonQ
