@@ -39,9 +39,9 @@ permalink: /resources/
 
 - Abigail R. Daane, Sierra R. Decker, and Vashti Sawtelle. 2017. “Teaching About Racial Equity in Introductory Physics Courses.” The Physics Teacher 55, 328. [https://doi.org/10.1119/1.4999724 ](https://doi.org/10.1119/1.4999724)
 - Simone Hyater-Adams, Claudia Fracchiolla, Noah Finkelstein, and Kathleen Hinko. 2018. “Critical look at physics identity: An operationalized framework for examining race and physics identity.” Phys. Rev. Phys. Educ. Res. 14, 010132. [https://doi.org/10.1103/PhysRevPhysEducRes.14.010132](https://doi.org/10.1103/PhysRevPhysEducRes.14.010132)
-- Katemari Rosa and Felicia Moore Mensah. 2016. “Educational pathways of Black women physicists: Stories of experiencing and overcoming obstacles in life.” Phys. Rev. Phys. Educ. Res. 12, 020113. [https://doi.org/10.1103/PhysRevPhysEducRes.12.020113](https://doi.org/10.1103/PhysRevPhysEducRes.12.020113) 
-- Angela Johnson, Maria Ong, Lily T. Ko, Janet Smith, and Apriel Hodari. 2017. “Common Challenges Faced by Women of Color in Physics, and Actions Faculty Can Take to Minimize Those Challenges.” The Physics Teacher 55, 356. [https://doi.org/10.1119/1.4999731](https://doi.org/10.1119/1.4999731) 
-- Maria Ong. 2005. “Body Projects of Young Women of Color in Physics: Intersections of Gender, Race, and Science.” Social Problems 52(4): 593--617.. [https://doi.org/10.1525/sp.2005.52.4.593](https://doi.org/10.1525/sp.2005.52.4.593) 
+- Katemari Rosa and Felicia Moore Mensah. 2016. “Educational pathways of Black women physicists: Stories of experiencing and overcoming obstacles in life.” Phys. Rev. Phys. Educ. Res. 12, 020113. [https://doi.org/10.1103/PhysRevPhysEducRes.12.020113](https://doi.org/10.1103/PhysRevPhysEducRes.12.020113)
+- Angela Johnson, Maria Ong, Lily T. Ko, Janet Smith, and Apriel Hodari. 2017. “Common Challenges Faced by Women of Color in Physics, and Actions Faculty Can Take to Minimize Those Challenges.” The Physics Teacher 55, 356. [https://doi.org/10.1119/1.4999731](https://doi.org/10.1119/1.4999731)
+- Maria Ong. 2005. “Body Projects of Young Women of Color in Physics: Intersections of Gender, Race, and Science.” Social Problems 52(4): 593--617.. [https://doi.org/10.1525/sp.2005.52.4.593](https://doi.org/10.1525/sp.2005.52.4.593)
 
 ## Books:
 
@@ -49,7 +49,7 @@ permalink: /resources/
 - Ibram X. Kendi. 2019. How to be an Anti-Racist. One World.
 - Robyn Maynard. 2017. Policing Black Lives: State Violence in Canada from Slavery to the Present. Fernwood Publishing.
 - Desmond Cole. 2020. The Skin We’re In: A Year of Black Resistance and Power. Doubleday Canada.
-- Ejeris Dixon and Leah Lakshmi Piepzna-Samarasinha, ed's. 2020. Beyond Survival: Strategies and Stories from the Transformative Justice Movement. AK Press. 
+- Ejeris Dixon and Leah Lakshmi Piepzna-Samarasinha, ed s. 2020. Beyond Survival: Strategies and Stories from the Transformative Justice Movement. AK Press.
 - Joe Macaré, Maya Schenwar, and Alana Yu-lan Price, eds. 2016. Who Do You Serve, Who Do You Protect?: Police Violence and Resistance in the United States. Haymarket Books.
 - Layla F. Saad. 2020. Me and White Supremacy. Sourcebooks.
 
