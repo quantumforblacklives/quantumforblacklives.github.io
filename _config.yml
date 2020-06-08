@@ -45,7 +45,7 @@ google_analytics: UA-168715431-1
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.quantumforblacklives.org
+url: http://www.quantumforblacklives.org/
 enforce_ssl: https://www.quantumforblacklives.org
 
 # If you're hosting your site at a Project repository on GitHub pages
