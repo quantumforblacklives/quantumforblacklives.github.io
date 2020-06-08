@@ -7,5 +7,12 @@
 - Brendan Reid, Riverlane 
 - Nicholas Chancellor, Durham University
 - Felix Tripier, IonQ
-- Olivia lanes , University of Pittsburgh 
+- Olivia lanes , University of Pittsburgh
 - Jason Kodish, Thirring Institute for Applied Gravitational Research
+- John Schanck, University of Waterloo
+- Alvaro Alhambra, Perimeter institute
+- Deep Prasad, ReactiveQ
+- Cameron Calcluth, Chalmers University of Technology
+- Charles Xu, Institute for Quantum Information and Matter, Caltech
+- Susanna Todaro, Massachusetts Institute for Technology
+- Ariel Bendersky, Universidad de Buenos Aires
