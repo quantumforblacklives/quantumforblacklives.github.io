@@ -2,7 +2,7 @@
 layout: post
 title:  Sample action plan
 categories: [action-plan]
-excerpt: Here is a sample action plan outlining steps you might want to take in order to 
+excerpt: Here is a sample action plan outlining steps you might want to take
 ---
 
 
