@@ -2,12 +2,20 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@qforblacklife">
+    <meta name="twitter:url" content="https://www.quantumforblacklives.org/">
+    <meta name="twitter:creator" content="@qforblacklife">
+
     {% if page.excerpt %}
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="twitter:description" content="{{ page.excerpt| strip_html }}" />
     {% elsif page.description %}
     <meta property="og:description" content="{{ page.description }}" />
+    <meta property="twitter:description" content="{{ page.description }}" />
     {% else %}
     <meta property="og:description" content="{{ site.description }}" />
+    <meta property="twitter:description" content="{{ site.description }}" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
