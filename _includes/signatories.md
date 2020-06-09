@@ -17,4 +17,8 @@
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
 - Susanna Todaro, Massachusetts Institute for Technology
 - Ariel Bendersky, Universidad de Buenos Aires
+- Maria Julia Maristany, Perimeter Institute
+- Katherine McCormick, University of Washington
+- Sam Cree, Stanford University
+- Hannah Knaack, CU Boulder 
 - Lindsay Orr, Freie Universität Berlin
