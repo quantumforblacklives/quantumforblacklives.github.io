@@ -18,3 +18,4 @@
 - Susanna Todaro, Massachusetts Institute for Technology
 - Ariel Bendersky, Universidad de Buenos Aires
 - Maria Julia Maristany, University of Waterloo
+- Katherine McCormick, University of Washington
