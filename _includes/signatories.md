@@ -29,7 +29,6 @@
 - Noah Johnson , University of Chicago
 - Sebastian Verschoor, Institute for Quantum Computing
 - Haoxing Du, Perimeter Institute / UC Berkeley
-- Elizabeth Bennewitz, Perimeter Institute
 - Akash Dixit, University of Chicago
 - Tzula Propp, University of Oregon
 - Saiyang Zhang, University of Texas,  Austin
