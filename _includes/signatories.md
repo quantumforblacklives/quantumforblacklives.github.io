@@ -22,3 +22,4 @@
 - Sam Cree, Stanford University
 - Hannah Knaack, CU Boulder 
 - Lindsay Orr, Freie Universität Berlin
+- Akash Dixit, University of Chicago
