@@ -17,3 +17,4 @@
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
 - Susanna Todaro, Massachusetts Institute for Technology
 - Ariel Bendersky, Universidad de Buenos Aires
+- anon@scientist.quantum, Love to sign but language too strong. Some of us rely critically on government funding; better spent on quantum than weapons. Not everyone has "visa privilege". The "supremacy is bad" issue is unrelated and potentially alienating of supporters. Good luck. 
