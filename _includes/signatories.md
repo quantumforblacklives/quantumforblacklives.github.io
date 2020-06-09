@@ -19,3 +19,4 @@
 - Ariel Bendersky, Universidad de Buenos Aires
 - Maria Julia Maristany, University of Waterloo
 - Katherine McCormick, University of Washington
+- Elizabeth Bennewitz, Perimeter Institute
