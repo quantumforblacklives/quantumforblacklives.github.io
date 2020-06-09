@@ -41,3 +41,4 @@
 - Arijit Chakrabarty
 - Christa Flühmann, Yale University
 - Alba Cervera-Lierta, University of Toronto
+- Jamal Busnaina, University of Waterloo
