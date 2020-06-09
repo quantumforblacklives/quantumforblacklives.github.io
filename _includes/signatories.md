@@ -34,3 +34,4 @@
 - Saiyang Zhang, University of Texas,  Austin
 - Nicolas Roussy Newton, ZY4 Systems Inc
 - Ying Lia Li, University College London
+- Chamithri Adikarige, Rochester Institute of Technology 
