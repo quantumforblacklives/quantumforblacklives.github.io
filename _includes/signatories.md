@@ -34,4 +34,14 @@
 - Saiyang Zhang, University of Texas,  Austin
 - Nicolas Roussy Newton, ZY4 Systems Inc
 - Ying Lia Li, University College London
+- Dra. Juani Bermejo-Vega, University of Granada
+- Patricia Contreras Tejada, ICMAT-CSIC (Madrid, Spain)
+- Siddharth S Saxena, Cavendish Laboratory, University of Cambridge
+- Alexander Davies, University of Cambridge
+- Arijit Chakrabarty
+- Christa Flühmann, Yale University
+- Alba Cervera-Lierta, University of Toronto
+- Jamal Busnaina, University of Waterloo
+- Patricia Lebre Alireza, University of Cambridge 
+- Chamithri Adikarige, Rochester Institute of Technology
 - Lex Kemper, North Carolina State University
