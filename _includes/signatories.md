@@ -20,3 +20,4 @@
 - Maria Julia Maristany, Perimeter Institute
 - Katherine McCormick, University of Washington
 - Sam Cree, Stanford University
+- Hannah Knaack, CU Boulder 
