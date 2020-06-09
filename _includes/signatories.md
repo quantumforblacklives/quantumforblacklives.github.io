@@ -27,3 +27,4 @@
 - Erzsebet Vincent, University of Chicago
 - Gourav Khullar, University of Chicago
 - Noah Johnson , University of Chicago
+- Tzula Propp, University of Oregon
