@@ -17,4 +17,5 @@
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
 - Susanna Todaro, Massachusetts Institute for Technology
 - Ariel Bendersky, Universidad de Buenos Aires
+- Maria Julia Maristany, University of Waterloo
 - Katherine McCormick, University of Washington
