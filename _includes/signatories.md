@@ -23,3 +23,4 @@
 - Hannah Knaack, CU Boulder 
 - Lindsay Orr, Freie Universität Berlin
 - Sinéad Griffin, LBNL
+- Connor Paddock, University of Waterloo/IQC
