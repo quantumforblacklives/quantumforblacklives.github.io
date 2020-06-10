@@ -71,3 +71,4 @@
 - Walker Willetts, Microsoft
 - Jeremy Bejanin, University of Waterloo
 - Harrison Simrall, University of Louisville
+- Farai Mazhandu, Wits University, South Africa
