@@ -47,6 +47,7 @@
 - Lex Kemper, North Carolina State University
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
+- Ian Durham, Saint Anselm College
 - Jasmine Sinanan-Singh
 - Neil Glikin, UC Berkeley
 - Matt Hodel, Massachusetts Institute of Technology
