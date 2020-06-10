@@ -17,4 +17,55 @@
 - Charles Xu, Institute for Quantum Information and Matter, Caltech
 - Susanna Todaro, Massachusetts Institute for Technology
 - Ariel Bendersky, Universidad de Buenos Aires
+- Maria Julia Maristany, Perimeter Institute
+- Katherine McCormick, University of Washington
+- Sam Cree, Stanford University
+- Hannah Knaack, CU Boulder 
+- Lindsay Orr, Freie Universität Berlin
+- Sinéad Griffin, LBNL
+- Connor Paddock, University of Waterloo/IQC
+- Erzsebet Vincent, University of Chicago
+- Gourav Khullar, University of Chicago
+- Noah Johnson , University of Chicago
+- Sebastian Verschoor, Institute for Quantum Computing
+- Haoxing Du, Perimeter Institute / UC Berkeley
+- Akash Dixit, University of Chicago
+- Tzula Propp, University of Oregon
+- Saiyang Zhang, University of Texas,  Austin
+- Urja Nandivada, University of Waterloo
+- Nicolas Roussy Newton, ZY4 Systems Inc
+- Ying Lia Li, University College London
+- Fernanda Razo
+- Dra. Juani Bermejo-Vega, University of Granada
+- Patricia Contreras Tejada, ICMAT-CSIC (Madrid, Spain)
+- Siddharth S Saxena, Cavendish Laboratory, University of Cambridge
+- Alexander Davies, University of Cambridge
+- Arijit Chakrabarty
+- Christa Flühmann, Yale University
+- Alba Cervera-Lierta, University of Toronto
+- Jamal Busnaina, University of Waterloo
+- Patricia Lebre Alireza, University of Cambridge 
+- Chamithri Adikarige, Rochester Institute of Technology
+- Lex Kemper, North Carolina State University
+- Ralph Silva, ETH Zurich
+- Marcus Huber, Austrian academy of sciences
+- Alexandra Moylett, Riverlane
+- Alyssa Rudelis, MIT
+- Ian Durham, Saint Anselm College
+- Jasmine Sinanan-Singh
+- Neil Glikin, UC Berkeley
+- Matt Hodel, Massachusetts Institute of Technology
+- Ryan Sweke, Freie Universität Berlin
+- Cyril Laplane, Macquarie University
+- Spoorthi Nagasamudram, The University of Chicago
+- Marek Gluza, Freie Universität Berlin
+- Aziza Suleymanzade, University of Chicago
+- Emmanuel Zambrini Cruzeiro, Free University of Brussels
+- Enid M Cruz Colón, Massachusetts Institute of Technology
+- Fabio Anza, University of California, Davis
+- Justin Youens, Strangeworks
+- Dr. Guen Prawiroatmodjo, Microsoft
+- William Gertler, University of Waterloo
+- Madison Sutula, Massachusetts Institute of Technology
+- Alex B. Grilo, CWI and QuSoft
 - Walker Willetts, Microsoft
