@@ -61,3 +61,4 @@
 - Marek Gluza, Freie Universität Berlin
 - Aziza Suleymanzade, University of Chicago
 - Emmanuel Zambrini Cruzeiro, Free University of Brussels
+- Enid M Cruz Colón, Massachusetts Institute of Technology
