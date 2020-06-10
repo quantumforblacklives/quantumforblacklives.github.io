@@ -70,3 +70,4 @@
 - Alex B. Grilo, CWI and QuSoft
 - Walker Willetts, Microsoft
 - Jeremy Bejanin, University of Waterloo
+- Harrison Simrall, University of Louisville
