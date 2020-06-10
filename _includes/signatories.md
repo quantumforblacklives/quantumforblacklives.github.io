@@ -48,3 +48,4 @@
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
 - Marek Gluza, Freie Universität Berlin
+- Aziza Suleymanzade, University of Chicago
