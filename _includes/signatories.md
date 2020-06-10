@@ -73,3 +73,4 @@
 - Harrison Simrall, University of Louisville
 - Euan Allen, University of Bristol
 - Adam Teixidó Bonfill, Polytechnic University of Catalonia
+- Farai Mazhandu, Wits University, South Africa
