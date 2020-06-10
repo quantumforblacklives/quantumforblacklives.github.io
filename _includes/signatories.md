@@ -32,6 +32,7 @@
 - Akash Dixit, University of Chicago
 - Tzula Propp, University of Oregon
 - Saiyang Zhang, University of Texas,  Austin
+- Urja Nandivada, University of Waterloo
 - Nicolas Roussy Newton, ZY4 Systems Inc
 - Ying Lia Li, University College London
 - Fernanda Razo
@@ -59,4 +60,6 @@
 - Spoorthi Nagasamudram, The University of Chicago
 - Marek Gluza, Freie Universität Berlin
 - Aziza Suleymanzade, University of Chicago
+- Emmanuel Zambrini Cruzeiro, Free University of Brussels
+- Enid M Cruz Colón, Massachusetts Institute of Technology
 - Fabio Anza, University of California, Davis
