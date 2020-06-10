@@ -68,3 +68,4 @@
 - William Gertler, University of Waterloo
 - Madison Sutula, Massachusetts Institute of Technology
 - Alex B. Grilo, CWI and QuSoft
+- Walker Willetts, Microsoft
