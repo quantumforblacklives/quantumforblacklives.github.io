@@ -80,3 +80,4 @@
 - Paola Asprilla, Universidad del Valle
 - Stijn de Graaf, Yale University
 - Ashay Patel, Caltech 
+- Michael Walsh, Massachusetts Institute of Technology
