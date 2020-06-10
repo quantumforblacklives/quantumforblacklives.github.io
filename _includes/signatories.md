@@ -45,6 +45,16 @@
 - Patricia Lebre Alireza, University of Cambridge 
 - Chamithri Adikarige, Rochester Institute of Technology
 - Lex Kemper, North Carolina State University
+- Ralph Silva, ETH Zurich
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
 - Alyssa Rudelis, MIT
+- Ian Durham, Saint Anselm College
+- Jasmine Sinanan-Singh
+- Neil Glikin, UC Berkeley
+- Matt Hodel, Massachusetts Institute of Technology
+- Ryan Sweke, Freie Universität Berlin
+- Cyril Laplane, Macquarie University
+- Spoorthi Nagasamudram, The University of Chicago
+- Marek Gluza, Freie Universität Berlin
+- Aziza Suleymanzade, University of Chicago
