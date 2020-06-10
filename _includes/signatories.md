@@ -48,6 +48,7 @@
 - Ralph Silva, ETH Zurich
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
+- Alyssa Rudelis, MIT
 - Ian Durham, Saint Anselm College
 - Jasmine Sinanan-Singh
 - Neil Glikin, UC Berkeley
