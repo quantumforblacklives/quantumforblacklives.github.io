@@ -66,3 +66,4 @@
 - Justin Youens, Strangeworks
 - Dr. Guen Prawiroatmodjo, Microsoft
 - William Gertler, University of Waterloo
+- Madison Sutula, Massachusetts Institute of Technology
