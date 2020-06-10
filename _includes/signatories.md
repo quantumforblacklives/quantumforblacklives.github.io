@@ -71,4 +71,5 @@
 - Walker Willetts, Microsoft
 - Jeremy Bejanin, University of Waterloo
 - Harrison Simrall, University of Louisville
+- Euan Allen, University of Bristol
 - Adam Teixidó Bonfill, Polytechnic University of Catalonia
