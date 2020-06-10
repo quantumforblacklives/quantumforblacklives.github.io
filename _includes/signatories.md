@@ -45,6 +45,7 @@
 - Patricia Lebre Alireza, University of Cambridge 
 - Chamithri Adikarige, Rochester Institute of Technology
 - Lex Kemper, North Carolina State University
+- Ralph Silva, ETH Zurich
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
 - Ian Durham, Saint Anselm College
