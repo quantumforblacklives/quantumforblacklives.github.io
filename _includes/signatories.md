@@ -60,4 +60,8 @@
 - Spoorthi Nagasamudram, The University of Chicago
 - Marek Gluza, Freie Universität Berlin
 - Aziza Suleymanzade, University of Chicago
+- Emmanuel Zambrini Cruzeiro, Free University of Brussels
+- Enid M Cruz Colón, Massachusetts Institute of Technology
+- Fabio Anza, University of California, Davis
+- Justin Youens, Strangeworks
 - Dr. Guen Prawiroatmodjo, Microsoft
