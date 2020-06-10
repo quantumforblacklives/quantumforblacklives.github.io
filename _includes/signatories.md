@@ -77,3 +77,4 @@
 - Karpur Shukla, Laboratory for Emerging Technologies, Brown University
 - Sara Mouradian, UC Berkeley
 - Austin Hulse, Duke University
+- Paola Asprilla, Universidad del Valle
