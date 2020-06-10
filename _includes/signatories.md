@@ -47,3 +47,4 @@
 - Lex Kemper, North Carolina State University
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
+- Spoorthi Nagasamudram, The University of Chicago
