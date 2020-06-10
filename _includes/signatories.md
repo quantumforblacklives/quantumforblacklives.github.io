@@ -75,3 +75,4 @@
 - Adam Teixidó Bonfill, Polytechnic University of Catalonia
 - Farai Mazhandu, Wits University, South Africa
 - Karpur Shukla, Laboratory for Emerging Technologies, Brown University
+- Sara Mouradian, UC Berkeley
