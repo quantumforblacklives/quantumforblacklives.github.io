@@ -47,3 +47,4 @@
 - Lex Kemper, North Carolina State University
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
+- Matt Hodel, Massachusetts Institute of Technology
