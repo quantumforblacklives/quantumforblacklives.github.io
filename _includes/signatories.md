@@ -65,3 +65,4 @@
 - Fabio Anza, University of California, Davis
 - Justin Youens, Strangeworks
 - Dr. Guen Prawiroatmodjo, Microsoft
+- William Gertler, University of Waterloo
