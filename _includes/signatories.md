@@ -47,6 +47,7 @@
 - Lex Kemper, North Carolina State University
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
+- Cyril Laplane, Macquarie University
 - Spoorthi Nagasamudram, The University of Chicago
 - Marek Gluza, Freie Universität Berlin
 - Aziza Suleymanzade, University of Chicago
