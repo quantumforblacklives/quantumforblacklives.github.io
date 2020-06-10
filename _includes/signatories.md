@@ -47,6 +47,7 @@
 - Lex Kemper, North Carolina State University
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
+- Neil Glikin, UC Berkeley
 - Matt Hodel, Massachusetts Institute of Technology
 - Ryan Sweke, Freie Universität Berlin
 - Cyril Laplane, Macquarie University
