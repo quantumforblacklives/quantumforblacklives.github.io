@@ -48,3 +48,10 @@
 - Marcus Huber, Austrian academy of sciences
 - Alexandra Moylett, Riverlane
 - Jasmine Sinanan-Singh
+- Neil Glikin, UC Berkeley
+- Matt Hodel, Massachusetts Institute of Technology
+- Ryan Sweke, Freie Universität Berlin
+- Cyril Laplane, Macquarie University
+- Spoorthi Nagasamudram, The University of Chicago
+- Marek Gluza, Freie Universität Berlin
+- Aziza Suleymanzade, University of Chicago

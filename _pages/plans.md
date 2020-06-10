@@ -5,6 +5,7 @@ permalink: /plans/
 ---
 Here is the full list of action plans submitted by folks to this site.
 Use these as inspiration to write your own plan and hold each other accountable.
+By signing this you also agree to our community <a href="/code-of-conduct/">code of conduct</a>.
 > _For more resources and to continue the discussion, <a href="https://join.slack.com/t/quantumforblacklives/shared_invite/zt-ewh0c6s3-2FQvyRi7xjliW6DR5Odgww">join our slack</a>_
 
 <div id="archives">
