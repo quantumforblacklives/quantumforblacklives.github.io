@@ -84,3 +84,4 @@
 - Abdul Afzal, University Of Sussex
 - Yosri Ayadi, Institute for  Quantum Computing
 - Maria Papageorgiou , University of Waterloo 
+- Ryan Mandelbaum,  Qiskit
