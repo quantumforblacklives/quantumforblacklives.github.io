@@ -82,3 +82,4 @@
 - Ashay Patel, Caltech 
 - Michael Walsh, Massachusetts Institute of Technology
 - Abdul Afzal, University Of Sussex
+- Yosri Ayadi, Institute for  Quantum Computing
