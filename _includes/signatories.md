@@ -85,3 +85,4 @@
 - Yosri Ayadi, Institute for  Quantum Computing
 - Maria Papageorgiou , University of Waterloo 
 - Ryan Mandelbaum,  Qiskit
+- Julio Carlos Magdalena de la Fuente, Freie Universität Berlin
