@@ -87,3 +87,4 @@
 - Ryan Mandelbaum,  Qiskit
 - Julio Carlos Magdalena de la Fuente, Freie Universität Berlin
 - Zane Rossi, Massachusetts Institute of Technology 
+- Michael Albergo, New York University
