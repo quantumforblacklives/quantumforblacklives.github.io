@@ -89,3 +89,4 @@
 - Zane Rossi, Massachusetts Institute of Technology 
 - Michael Albergo, New York University
 - Olivia Di Matteo, TRIUMF
+- Ben Criger, Horizon Quantum Computing
