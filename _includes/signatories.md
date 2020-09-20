@@ -90,3 +90,4 @@
 - Michael Albergo, New York University
 - Olivia Di Matteo, TRIUMF
 - Ben Criger, Horizon Quantum Computing
+- Lucy Low, University of Waterloo
